@@ -1,4 +1,4 @@
-# FR13Card
+# VISA-CARD
 
 Pkg update
 
@@ -12,9 +12,9 @@ Pkg install git
 
 Pkg install  php
 
-git clone https://github.com/FR13NDS13/FR13Card.git
+git clone https://github.com/Kasper-Dz/VISA-CARD.git
 
-cd FR13Card
+cd VISA-CARD
 
 ls
 
