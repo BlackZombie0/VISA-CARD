@@ -20,7 +20,7 @@ ls
 
 chmod +x Card.sh
 
-sh Card.sh
+bash Card.sh
 
 بعدها تضع رقم 1
 
